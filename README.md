@@ -6,4 +6,9 @@
  
  🖥️ Em relação as tecnologias, utilizo principalmente o Java e o Spring Framework.
 
-[![andrewsec5's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewsec5)](https://github.com/andrewsec5/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=andrewsec5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrewsec5&theme=tokyonight&hide_border=true)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsec5&langs_count=10&layout=compact&theme=onedark)](https://github.com/andrewsec5)
+
+

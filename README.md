@@ -8,7 +8,7 @@
 
  ## 🙋‍♂️ Sobre Mim:
   Meu nome é Andrew, tenho 20 anos e vejo na programação uma oportunidade de transformar e facilitar processos afim de tornar sistemas mais limpos e eficientes.
-  Atualmente trabalho com desenvolvimento de software em uma fintech e busco aprender ainda mais sobre programação, ganhar experiência em outras linguagens e ferramentas e atuar em projetos e soluções reais.
+  Atualmente trabalho com desenvolvimento de software no Agibank e busco aprender ainda mais sobre programação e arquitetura de sistemas, ganhar experiência em outras linguagens e ferramentas e atuar em projetos e soluções reais.
 
  ---
  
